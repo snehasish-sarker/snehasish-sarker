@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Snehasish Sarker</h1>
 <h3 align="center">A passionate Full Stack Developer from Bangladesh</h3>
 
-<p align="left">
-  <img src="https://avatars.githubusercontent.com/u/19832690?v=4" alt="snehasish-sarker" />
-</p>
-
 ---
 
 - 🔭 I’m currently working on a **Digital Marketing Saas Product**
